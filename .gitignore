@@ -64,7 +64,7 @@ instance/
 .webassets-cache
 
 # Scrapy stuff:
-.scrapy
+.scrapygi
 
 # Sphinx documentation
 docs/_build/
