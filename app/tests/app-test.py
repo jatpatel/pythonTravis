@@ -1,5 +1,5 @@
 import unittest
-from pythonTravis.src.app import addition
+from app.src.app import addition
 
 class MyTest(unittest.TestCase):
     def test_addition(self):
